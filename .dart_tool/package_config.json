@@ -92,8 +92,20 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "nested",
+      "rootUri": "file:///Users/alvaroalvaroiporremartinez/.pub-cache/hosted/pub.dev/nested-1.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "path",
       "rootUri": "file:///Users/alvaroalvaroiporremartinez/.pub-cache/hosted/pub.dev/path-1.8.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "provider",
+      "rootUri": "file:///Users/alvaroalvaroiporremartinez/.pub-cache/hosted/pub.dev/provider-6.0.5",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -152,7 +164,7 @@
       "languageVersion": "3.0"
     }
   ],
-  "generated": "2023-07-08T01:50:01.986029Z",
+  "generated": "2023-07-15T16:03:17.116217Z",
   "generator": "pub",
   "generatorVersion": "3.0.1"
 }
